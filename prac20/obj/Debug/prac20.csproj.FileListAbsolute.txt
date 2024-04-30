@@ -1,0 +1,7 @@
+C:\Users\pr-23.107k-kd\source\repos\prac20\bin\Debug\prac20.exe.config
+C:\Users\pr-23.107k-kd\source\repos\prac20\bin\Debug\prac20.exe
+C:\Users\pr-23.107k-kd\source\repos\prac20\bin\Debug\prac20.pdb
+C:\Users\pr-23.107k-kd\source\repos\prac20\obj\Debug\prac20.csproj.AssemblyReference.cache
+C:\Users\pr-23.107k-kd\source\repos\prac20\obj\Debug\prac20.csproj.CoreCompileInputs.cache
+C:\Users\pr-23.107k-kd\source\repos\prac20\obj\Debug\prac20.exe
+C:\Users\pr-23.107k-kd\source\repos\prac20\obj\Debug\prac20.pdb
